@@ -69,7 +69,7 @@ figure {
   background: #2c98f0; }
 
 .white-text-with-black-shadow {
-  text-shadow: 4px 4px 0px black;
+  text-shadow: 0px 0px 10px black;
 }
 
 #colorlib-page {
