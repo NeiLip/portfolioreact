@@ -37,9 +37,9 @@ p {
 h1, h2, h3, h4, h5, h6 {
   color: #000;
   font-family: "Quicksand", Arial, sans-serif;
- 
   font-weight: 400;
   margin: 0 0 30px 0; }
+
 
 figure {
   margin-bottom: 2.5em;
@@ -68,6 +68,9 @@ figure {
   color: #fff;
   background: #2c98f0; }
 
+.white-text-with-black-shadow {
+  text-shadow: 4px 4px 0px black;
+}
 
 #colorlib-page {
   width: 100%;
